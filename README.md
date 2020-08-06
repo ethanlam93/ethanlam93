@@ -1,2 +1,3 @@
-![Banner]((http://url/to/img.png))
+![Banner](banner.png)
+
 
