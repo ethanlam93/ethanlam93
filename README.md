@@ -1,5 +1,4 @@
-![Banner](banner.png)
-![horizons copy](https://user-images.githubusercontent.com/65522080/89479319-8071df00-d760-11ea-944f-befdd037d69f.png)
+![banner](https://user-images.githubusercontent.com/64672854/89487802-617d4800-d774-11ea-97dc-88cc906aee10.png)
 <p>Coming to you from tropical Vietnam :vietnam: <br>
 Currently lived in Atlanta, Georgia for more than 10 years <br>
 New York is always in my heart :statue_of_liberty: <br>
