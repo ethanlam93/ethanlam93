@@ -12,6 +12,6 @@ while ( true ) { <br>
 return  <strong>"I love coding !!!"</strong>
 }
 
-LOOK AT MY WORK AT : <a>ethanthanhlam.</a>
+LOOK AT MY WORK AT : <a href="ethanthanhlam.com">ethanthanhlam.com</a>
 
 
